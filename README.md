@@ -14,5 +14,21 @@ Projeto desenvolvido durante o evento Challenge de Dados promovido pela escola A
 
 ## Detalhes do projeto
 
+Projeto desenvovido durante o evento de Challenge Dados - BI3, na primeira semana, onde o objetivo foi gerar um dashboard, para análise de uma campanha de marketing digital da empresa de **Bloco de Codigo** com dados de 2021.
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+### Dados Análisados:
+
+Os dados estavam em uenformato CSV.
+
+### Análises, Resultados e Ações:
+
+* **CTR**:
+  * Para o indice de CTR, nota-se que a melhor aulternativa é priorizar as campanhas nas **Redes Sociais** do que campanhas Pagas, pois os indices fora **>50% e >3%**, respectivamente, ou seja os usuários tendem a clicar em 50% das propagandas realizadas nas Redes Sociais;
+
+* **Tempo de Leitura e Quantidade de Visualizaçoes**:
+  * Os artigos associados a **Gestão** representam **44%**,  **Data Science e Tecnonolia** **somados** repsentam mais **44%** e os **12%** restante são dividos pelas demais categorias.
+  
+
+## Conclusão:
+
+Conclui-se que houve um bom aproveitamento dos dados disponibilizados, pois foi criado um Dashboard, que agrega valor ao negócio por meio  da análise dos dados para a tomada de decição.
