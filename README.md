@@ -1,12 +1,12 @@
-# Nome do meu projeto
+# Dashboard Bloco de Código
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto desenvolvido durante o evento Challenge de Dados promovido pela escola Alura, onde foram utilizados dados de uma capanha de marketing da empresa **Bloco de Código**.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :sparkles: Nome        | **Dashboard Bloco de Código**
+| :label: Tecnologias | Google Sheets, Looker Studio
+| :rocket: URL         | [https://url-deploy.com.br](https://lookerstudio.google.com/embed/reporting/0de31a53-15d7-4d08-9ff5-231054f32c47/page/zbvRD)
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
